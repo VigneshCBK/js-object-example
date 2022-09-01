@@ -12,7 +12,7 @@ var mob; {
     model: 2;
     ram: 4;
 }
-var cylinder; {
+var cylinder= {
     color: "red";
     shape: "cynilnderical";
     weight: 30;
@@ -28,7 +28,7 @@ var pen; {
 }
 var matchbox; {
     shape: "sqaure";
-    purpose: "fir"e;
+    purpose: "fire";
     type: "wax";
     size: 5 * 4;
     rate: 1;
@@ -142,3 +142,4 @@ var book;{
   pages:550;
   weight:"500gm";
 }
+// -------------------20
